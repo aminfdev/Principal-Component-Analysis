@@ -1,9 +1,8 @@
 ## Principal Component Analysis (PCA) for Movie Recommender System
 
-### Overview
-
 #### This repository contains code for performing Principal Component Analysis (PCA) on a movie dataset and implementing a recommender system function based on the PCA results.
-Overview
+
+### Overview
 
 #### Principal Component Analysis (PCA) is a dimensionality reduction technique commonly used in data analysis and machine learning. In this project, PCA is applied to a movie dataset to identify patterns and relationships among movies and users.
 
